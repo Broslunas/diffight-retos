@@ -2,6 +2,8 @@
 
 **Fácil** · arrays · Desafío diario 2026-11-06 · Resuelto
 
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/7f634b0b-b478-45fb-963c-ec015f3d6a0b) · [Volver al índice](../../README.md)
+
 La primera línea contiene n y la segunda n enteros. Imprime el valor máximo después de sumar 10 a cada uno.
 
 Ejemplo:

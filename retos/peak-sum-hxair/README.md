@@ -2,6 +2,8 @@
 
 **Fácil** · vectores · Desafío generado · Resuelto
 
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/d23613df-10ca-4625-9fc2-68664b1211ee) · [Volver al índice](../../README.md)
+
 Dado un vector de $N$ números enteros, calcula la suma de todos sus elementos "cima".
 
 Un elemento $A[i]$ es una cima si es estrictamente mayor que todos sus vecinos existentes:

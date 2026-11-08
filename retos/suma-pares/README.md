@@ -2,6 +2,8 @@
 
 **Fácil** · arrays · Desafío diario 2026-11-08 · Resuelto
 
+[Jugar este reto en Diffight](https://diffight.broslunas.com/play) · [Volver al índice](../../README.md)
+
 La primera línea contiene n. La segunda, n enteros separados por espacios. Imprime la suma de los que son pares.
 
 Ejemplo:

@@ -2,6 +2,8 @@
 
 **Fácil** · strings · Desafío generado · Resuelto
 
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/3d023260-9860-46ea-a2af-d103677c0dbb) · [Volver al índice](../../README.md)
+
 Dado un texto compuesto únicamente por letras minúsculas (`a`-`z`), cuenta cuántos "sándwiches de vocales" contiene.
 
 Un sándwich de vocales es una subcadena de longitud 3 donde:

@@ -2,6 +2,8 @@
 
 **Fácil** · math · Desafío diario 2026-10-19 · Resuelto
 
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/bc935e1a-08ed-4985-be96-1949c60699ed) · [Volver al índice](../../README.md)
+
 Lee un entero n ≥ 0. Imprime la suma de sus dígitos.
 
 Ejemplo:
