@@ -2,7 +2,7 @@
 
 **Medio** · stacks · Desafío diario 2026-11-08 · Resuelto
 
-[Jugar este reto en Diffight](https://diffight.broslunas.com/play) · [Volver al índice](../../README.md)
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/e6edec23-b51f-4de4-a30e-49c5490de353) · [Volver al índice](../../README.md)
 
 Lee una cadena con los caracteres ()[]{} y otros. Imprime YES si todos los paréntesis están bien emparejados y anidados, NO en caso contrario. Ignora el resto de caracteres.
 
