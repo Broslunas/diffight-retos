@@ -8,7 +8,7 @@
 
 Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 
-<img alt="resueltos: 11" src="https://img.shields.io/badge/resueltos-11-3dff8b?style=for-the-badge&labelColor=0d0b1e"> <img alt="racha: 3 días" src="https://img.shields.io/badge/racha-3%20d%C3%ADas-ff8a3d?style=for-the-badge&labelColor=0d0b1e"> <img alt="liga: Bronce" src="https://img.shields.io/badge/liga-Bronce-ffd23d?style=for-the-badge&labelColor=0d0b1e"> <img alt="puntos: 75" src="https://img.shields.io/badge/puntos-75-3dd5ff?style=for-the-badge&labelColor=0d0b1e">
+<img alt="resueltos: 12" src="https://img.shields.io/badge/resueltos-12-3dff8b?style=for-the-badge&labelColor=0d0b1e"> <img alt="racha: 3 días" src="https://img.shields.io/badge/racha-3%20d%C3%ADas-ff8a3d?style=for-the-badge&labelColor=0d0b1e"> <img alt="liga: Bronce" src="https://img.shields.io/badge/liga-Bronce-ffd23d?style=for-the-badge&labelColor=0d0b1e"> <img alt="puntos: 77" src="https://img.shields.io/badge/puntos-77-3dd5ff?style=for-the-badge&labelColor=0d0b1e">
 
 [Jugar en Diffight](https://diffight.broslunas.com/play) · [Mi perfil público](https://diffight.broslunas.com/u/wdgUj0wwj0GH) · [Archivo de retos](https://diffight.broslunas.com/archive) · [Ranking](https://diffight.broslunas.com/ranking)
 
@@ -20,7 +20,7 @@ Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 
 | Resueltos | Fácil | Medio | Difícil | Lenguajes | Racha | Mejor racha | Duelos ganados |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **11** | 8 | 2 | 1 | 1 | 3 días | 3 días | 1/2 |
+| **12** | 9 | 2 | 1 | 1 | 3 días | 3 días | 1/2 |
 
 ## Insignias (6/14)
 
@@ -33,10 +33,11 @@ Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 
 ## Retos
 
-### Fácil (8)
+### Fácil (9)
 
 | Reto | Lenguajes | Estado | Fecha | Enlaces |
 |---|---|:-:|:-:|---|
+| **Vectores ortogonales** | C++ | Resuelto | 2026-11-10 | [Código](retos/orthogonal-vectors-kjacb) · [Jugar en Diffight](https://diffight.broslunas.com/practice/e02d1fe2-0724-49c0-b7d1-2c122cb7f8da) |
 | **Primer elemento repetido** | C++ | Resuelto | 2026-11-10 | [Código](retos/first-duplicate-element-b9bqq) · [Jugar en Diffight](https://diffight.broslunas.com/play) |
 | **Palabras al revés** | C++ | Resuelto | 2026-11-09 | [Código](retos/palabras-al-reves) · [Jugar en Diffight](https://diffight.broslunas.com/practice/65ee9527-b8e6-458d-88ab-4cadba96ac11) |
 | **Suma de dígitos** | C++ | Resuelto | 2026-11-08 | [Código](retos/hist-suma-de-digitos) · [Jugar en Diffight](https://diffight.broslunas.com/practice/bc935e1a-08ed-4985-be96-1949c60699ed) |
