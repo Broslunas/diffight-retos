@@ -8,7 +8,7 @@
 
 Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 
-<img alt="resueltos: 10" src="https://img.shields.io/badge/resueltos-10-3dff8b?style=for-the-badge&labelColor=0d0b1e"> <img alt="racha: 3 días" src="https://img.shields.io/badge/racha-3%20d%C3%ADas-ff8a3d?style=for-the-badge&labelColor=0d0b1e"> <img alt="liga: Bronce" src="https://img.shields.io/badge/liga-Bronce-ffd23d?style=for-the-badge&labelColor=0d0b1e"> <img alt="puntos: 51" src="https://img.shields.io/badge/puntos-51-3dd5ff?style=for-the-badge&labelColor=0d0b1e">
+<img alt="resueltos: 11" src="https://img.shields.io/badge/resueltos-11-3dff8b?style=for-the-badge&labelColor=0d0b1e"> <img alt="racha: 3 días" src="https://img.shields.io/badge/racha-3%20d%C3%ADas-ff8a3d?style=for-the-badge&labelColor=0d0b1e"> <img alt="liga: Bronce" src="https://img.shields.io/badge/liga-Bronce-ffd23d?style=for-the-badge&labelColor=0d0b1e"> <img alt="puntos: 75" src="https://img.shields.io/badge/puntos-75-3dd5ff?style=for-the-badge&labelColor=0d0b1e">
 
 [Jugar en Diffight](https://diffight.broslunas.com/play) · [Mi perfil público](https://diffight.broslunas.com/u/wdgUj0wwj0GH) · [Archivo de retos](https://diffight.broslunas.com/archive) · [Ranking](https://diffight.broslunas.com/ranking)
 
@@ -20,7 +20,7 @@ Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 
 | Resueltos | Fácil | Medio | Difícil | Lenguajes | Racha | Mejor racha | Duelos ganados |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **10** | 8 | 1 | 1 | 1 | 3 días | 3 días | 1/2 |
+| **11** | 8 | 2 | 1 | 1 | 3 días | 3 días | 1/2 |
 
 ## Insignias (6/14)
 
@@ -46,10 +46,11 @@ Duelo de código a ciegas: tests ocultos, jueces de IA y duelos 1v1.
 | **Sándwiches de Vocales** | C++ | Resuelto | 2026-11-08 | [Código](retos/vowel-sandwiches-urhwm) · [Jugar en Diffight](https://diffight.broslunas.com/practice/3d023260-9860-46ea-a2af-d103677c0dbb) |
 | **Suma de pares** | C++ | Resuelto | 2026-11-08 | [Código](retos/suma-pares) · [Jugar en Diffight](https://diffight.broslunas.com/practice/a3f753b4-2ec5-416a-a82c-9575c317dfce) |
 
-### Medio (1)
+### Medio (2)
 
 | Reto | Lenguajes | Estado | Fecha | Enlaces |
 |---|---|:-:|:-:|---|
+| **Ventana Mínima de Caracteres Únicos** | C++ | Resuelto | 2026-11-10 | [Código](retos/shortest-window-of-all-characters-xkcdx) · [Jugar en Diffight](https://diffight.broslunas.com/play) |
 | **Paréntesis balanceados** | C++ | Resuelto | 2026-11-08 | [Código](retos/parentesis-balanceados) · [Jugar en Diffight](https://diffight.broslunas.com/practice/e6edec23-b51f-4de4-a30e-49c5490de353) |
 
 ### Difícil (1)
