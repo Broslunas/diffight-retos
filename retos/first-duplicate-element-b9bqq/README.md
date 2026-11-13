@@ -2,7 +2,7 @@
 
 **Fácil** · hashing · Desafío diario 2026-11-10 · Resuelto
 
-[Jugar este reto en Diffight](https://diffight.broslunas.com/play) · [Volver al índice](../../README.md)
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/20f952fa-25ad-4e0b-8567-8df752a67a5f) · [Volver al índice](../../README.md)
 
 Dado un arreglo de $N$ enteros, encuentra el primer elemento que aparece por segunda vez al recorrer la secuencia de izquierda a derecha.
 

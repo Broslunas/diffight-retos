@@ -2,7 +2,7 @@
 
 **Medio** · strings · Desafío diario 2026-11-10 · Resuelto
 
-[Jugar este reto en Diffight](https://diffight.broslunas.com/play) · [Volver al índice](../../README.md)
+[Jugar este reto en Diffight](https://diffight.broslunas.com/practice/1007084a-db69-48d2-9063-71f208c7e96e) · [Volver al índice](../../README.md)
 
 Dado un texto no vacío $S$ en una sola línea, encuentra la longitud de la subcadena continua más corta que contenga todos los caracteres distintos presentes en $S$.
 
